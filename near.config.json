@@ -1,0 +1,1 @@
+{"server_host":"localhost","server_port":8000,"rpc_node":"https://rpc.testnet.near.org","init_disabled":false,"master_account_id":"kzncvaa.testnet","master_key":"ed25519:5xFhBJJF9LSHwMV5PrQ3pKrb6JwoYAzRPH5cFhegXTrXZdVxT2pBbzdiLWpzbfVStvMt8H3rBx5H9w8Nf5jkpSom","nft_contract":"nft-contract.example.testnet"}
